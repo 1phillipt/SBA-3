@@ -14,5 +14,13 @@
     "autoprefixer": "^10.4.23",
     "postcss": "^8.5.6",
     "tailwindcss": "^3.4.19"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1phillipt/SBA-3.git"
+  },
+  "bugs": {
+    "url": "https://github.com/1phillipt/SBA-3/issues"
+  },
+  "homepage": "https://github.com/1phillipt/SBA-3#readme"
 }
